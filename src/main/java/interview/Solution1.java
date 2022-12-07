@@ -1,6 +1,6 @@
-/*
+package interview;/*
 Max Inserts to Obtain String Without 3 Consecutive 'v'
-Given a string S, returns the maximum number of letters a that can be inserted into S (including at the front and end of S) so that the resulting string doesn’t contain three consecutive letters 'v'. If string S already contains the substring aaa, then your function should return -1.
+Given a string S, returns the maximum number of letters a that can be inserted into S (including at the front and end of S) so that the resulting string doesn’t contain three consecutive letters 'v'. If string S already contains the substring 'vvv', then your function should return -1.
 
 Example 1:
 Input: vi
